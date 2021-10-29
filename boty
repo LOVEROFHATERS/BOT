@@ -39,4 +39,4 @@ async def on_message(message):
         response = random.choice(brooklyn_99_quotes)
         await message.channel.send(response)
 
-client.run('OTAzNjAyMzAzMzYwMTcyMTAz.YXvXOQ.6feRY5Md6NiTX-IdwSwCvYqswkM')
+client.run('OTAzNjAyMzAzMzYwMTcyMTAz.YXvXOQ.VoYYGzuHZz4W4rJHn9iMthI0QLw')
